@@ -11,7 +11,7 @@
 
 | Проекты | 
 | :---------------------- | 
-| [yandex-practicum-projects](https://github.com/AnaTokareva97/Portfolio) |
+| [Portfolio](https://github.com/AnaTokareva97/Portfolio) |
 <!--
 **AnaTokareva97/AnaTokareva97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
